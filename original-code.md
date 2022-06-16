@@ -4,6 +4,8 @@ title: Original code
 permalink: /original-code/
 ---
 
+Do download this notebook, go [here](https://github.com/stefaniesturm/capstone_project/blob/main/recsys-h-m-v3.ipynb). 
+
 # Recommendation systems for online shop fashion recommendations 
 Using the H&M dataset to develop different strategies for recommendation systems for different business contexts. 
 
