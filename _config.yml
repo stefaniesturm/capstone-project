@@ -29,7 +29,8 @@ twitter_username: sturm_steffi
 github_username:  stefaniesturm
 
 # Build settings
-theme: minima
+# Removed minima theme, making my own
+# theme: minima
 plugins:
 #  - jekyll-feed
 
