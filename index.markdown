@@ -14,5 +14,3 @@ Using the H&M dataset to develop different strategies for recommendation systems
 2. Popularity-based recommendation system for new customers 
 3. NLP-based recommender system that suggests similar articles to the one that is currently in the shopping basked (before purchasing)
 4. Deep learning collaborative filtering for product recommendations after purchase ("other customers who bought this also liked...")
-
-[Get the code here.]({{ site.baseurl }}{% link original-code.md %})
