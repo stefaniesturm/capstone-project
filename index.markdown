@@ -5,5 +5,3 @@
 layout: home
 ---
 hallo
-
-[something](_posts/something.md)
